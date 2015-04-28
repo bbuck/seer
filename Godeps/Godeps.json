@@ -1,6 +1,9 @@
 {
 	"ImportPath": "github.com/tree-server/trees",
 	"GoVersion": "go1.4.2",
+	"Packages": [
+		"./..."
+	],
 	"Deps": [
 		{
 			"ImportPath": "github.com/BurntSushi/toml",
@@ -11,6 +14,15 @@
 			"ImportPath": "github.com/bbuck/go-flag",
 			"Comment": "v0",
 			"Rev": "5d09c81f7fcfc0ae218bc9f2c8ed7ce065bbf6f5"
+		},
+		{
+			"ImportPath": "github.com/satori/go.uuid",
+			"Rev": "36cf875a77de97b7775735e34045e63bf385c4c5"
+		},
+		{
+			"ImportPath": "gopkg.in/cq.v1",
+			"Comment": "v0.1.0-52-g68c4424",
+			"Rev": "68c4424a3d5d144245d4347ca4bab19aa1a0b5ae"
 		}
 	]
 }
