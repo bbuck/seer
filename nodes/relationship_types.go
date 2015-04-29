@@ -3,37 +3,15 @@ package nodes
 type RelationshipType int8
 
 const (
-	// Start
-	OnLoadOut RelationshipType = iota
+	// Event
+	OnLoad RelationshipType = iota
 	OnNodeSaved
+	OnRequest
+	OnResponse
+	OnRender
 
-	// Start, Route
-	RouteOut
-
-	// Route
-	RouteIn
-	ControllerOut
-
-	// Route, Server
-	RenderOut
-
-	// Start, Route
-	OnRequestOut
-	OnResponseOut
-
-	// View, Start
-	OnRenderOut
-
-	// Server
-	OnRequestIn
-	OnResponseIn
-	OnRenderIn
-	OnLoadIn
-	OnNodeSavedIn
-	ControllerIn
+	// Standard
+	Route
+	Controller
+	Render
 )
-
-// RelationshipType
-func (r RelatinoshipType) String() string {
-
-}
