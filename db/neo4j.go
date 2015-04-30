@@ -2,7 +2,6 @@ package db
 
 import (
 	"database/sql"
-	"os"
 
 	"github.com/tree-server/trees/log"
 	_ "gopkg.in/cq.v1"
@@ -10,7 +9,7 @@ import (
 
 type Neo4jClient struct {
 	*sql.DB
-	log *log.Logger
+	log log.Logger
 }
 
 func New() (*Neo4jClient, error) {
@@ -21,7 +20,7 @@ func New() (*Neo4jClient, error) {
 
 	return &Neo4jClient{
 		DB:  db,
-		log: log.Make("database", ":stdout:"),
+		log: log.Make("database", log.GetFileTarget(":stdout:")),
 	}, nil
 }
 

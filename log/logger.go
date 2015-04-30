@@ -1,91 +1,73 @@
 package log
 
 import (
+	"fmt"
+	"io"
 	"log"
 	"os"
 	"strings"
+
+	"github.com/tree-server/trees/errors"
 )
 
-type LogLevel int
-
-func (l LogLevel) String() string {
-	switch l {
-	case LogError:
-		return "error"
-	case LogInfo:
-		return "info"
-	case LogVerbose:
-		return "verbose"
-	case LogDebug:
-		return "debug"
-	default:
-		return "INVALID"
-	}
+type Logger interface {
+	Log(LogLevel, string, ...interface{})
+	Fatal(error, int)
 }
 
-const (
-	stdoutFilename = ":stdout:"
-	stderrFilename = ":stderr:"
-)
-
-const (
-	LogError LogLevel = iota
-	LogInfo
-	LogVerbose
-	LogDebug
-)
-
-type Logger struct {
+type BasicLogger struct {
 	*log.Logger
-	maxLevel LogLevel
 }
 
 var (
-	logMap   = make(map[string]*Logger)
-	logFlags = log.Ldate | log.Ltime | log.Lshortfile
+	logMap       = make(map[string]Logger)
+	logFlags     = log.Ldate | log.Ltime | log.Lshortfile
+	specialFiles = map[string]io.Writer{
+		":stdout:": os.Stdout,
+		":stderr:": os.Stderr,
+	}
 )
 
-func Make(name string, filename string, maxLevel LogLevel) *Logger {
-	var (
-		file *os.File
-		err  error
-	)
-	switch filename {
-	case stdoutFilename:
-		file = os.Stdout
-	case stderrFilename:
-		file = os.Stderr
-	default:
-		file, err = os.Open(filename)
+func GetFileTarget(name string) io.Writer {
+	if w, ok := specialFiles[name]; ok {
+		return w
+	} else {
+		f, err := os.Open(name)
 		if err != nil {
-			file = os.Stdout
-		}
-	}
+			fmt.Fprintf(os.Stderr, "Failed to open %q as a source to log to: %s", name, err)
 
+			os.Exit(errors.ErrFailedToCreateLogTarget)
+		}
+
+		return f
+	}
+}
+
+func Make(name string, target io.Writer) Logger {
 	if logger, ok := logMap[name]; ok {
 		return logger
 	} else {
 		prefix := []string{"[", strings.Title(name), "] "}
-		logger := &Logger{log.New(file, strings.Join(prefix, ""), logFlags), maxLevel}
+		logger := &BasicLogger{log.New(target, strings.Join(prefix, ""), logFlags)}
 		logMap[name] = logger
 
 		return logger
 	}
 }
 
-func Get(name string) (*Logger, bool) {
+func Get(name string) (Logger, bool) {
 	l, ok := logMap[name]
 
 	return l, ok
 }
 
-func (l *Logger) Fatal(err error, exitCode int) {
+func (l *BasicLogger) Fatal(err error, exitCode int) {
 	l.Log(LogError, err.Error())
 	os.Exit(exitCode)
 }
 
-func (l *Logger) Log(level LogLevel, msg string) {
-	if level <= l.maxLevel {
-		l.Logger.Printf("%10s   %s", level, msg)
+func (l *BasicLogger) Log(level LogLevel, format string, args ...interface{}) {
+	if level <= MaxLogLevel {
+		l.Logger.Printf("%10s   %s", level, fmt.Sprintf(format, args...))
 	}
 }

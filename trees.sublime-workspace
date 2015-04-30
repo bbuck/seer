@@ -1,0 +1,1858 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"posit",
+				"positiveOrNegative"
+			],
+			[
+				"Print",
+				"Printf	 ƒ"
+			],
+			[
+				"sring",
+				"stringFlag	 Ɩ"
+			],
+			[
+				"maximum",
+				"maximumMana"
+			],
+			[
+				"Fprint",
+				"FprintInColumnsWithWidth	 ƒ"
+			],
+			[
+				"amount",
+				"amount"
+			],
+			[
+				"uvc",
+				"uvcProductFamilies"
+			],
+			[
+				"found",
+				"foundALine"
+			],
+			[
+				"ful",
+				"fullmentShipped"
+			],
+			[
+				"render",
+				"renderNSSyncConfig"
+			],
+			[
+				"copay",
+				"copyToClipboard"
+			],
+			[
+				"teplate",
+				"templateDirectory"
+			],
+			[
+				"askFor",
+				"askForRestletUrl"
+			],
+			[
+				"copy",
+				"copyToClipboard"
+			],
+			[
+				"is",
+				"isHierarchyEqual"
+			],
+			[
+				"get",
+				"getNSMimeType"
+			],
+			[
+				"mime",
+				"mimeToNetSuiteMap"
+			],
+			[
+				"genera",
+				"generateResponseHandler"
+			],
+			[
+				"genere",
+				"generateResponseHandler"
+			],
+			[
+				"nlapi",
+				"nlapiRequestURL"
+			],
+			[
+				"referene",
+				"referencedorder"
+			],
+			[
+				"instal",
+				"installedBase"
+			],
+			[
+				"getLine",
+				"getLineNumberFromId"
+			],
+			[
+				"function",
+				"functions"
+			],
+			[
+				"Seti",
+				"Seti_UI"
+			],
+			[
+				"mass_",
+				"mass_create_user_params"
+			],
+			[
+				"write_edit",
+				"write_edit_npc_menu"
+			],
+			[
+				"write_",
+				"write_edit_npc_menu"
+			],
+			[
+				"write_room_",
+				"write_room_builder_menu"
+			],
+			[
+				"debug",
+				"drawDebugLines"
+			],
+			[
+				"blink",
+				"blinkDelta"
+			],
+			[
+				"blin",
+				"blinkEveryXSeconds"
+			],
+			[
+				"expire",
+				"expires_after"
+			],
+			[
+				"authorized_users",
+				"authorized_users_link"
+			],
+			[
+				"max",
+				"maxXViewportValue"
+			],
+			[
+				"pos",
+				"pos"
+			],
+			[
+				"generate_and",
+				"generate_and_send_organization_report"
+			],
+			[
+				"new_ar",
+				"new_arrivals_style"
+			],
+			[
+				"und",
+				"undo_to_last_guess"
+			],
+			[
+				"square",
+				"square_to_guess"
+			],
+			[
+				"guess",
+				"guessed_values"
+			],
+			[
+				"initi",
+				"initial_value"
+			],
+			[
+				"yell",
+				"yell_difficult"
+			],
+			[
+				"throw",
+				"throw_eleet_error"
+			],
+			[
+				"exp",
+				"expected_bugs"
+			],
+			[
+				"uni",
+				"universe_of_defects"
+			],
+			[
+				"univer",
+				"universe_of_defects"
+			],
+			[
+				"thr",
+				"throw_eleet_error"
+			],
+			[
+				"res",
+				"respond_with_unknown_input"
+			],
+			[
+				"send_room",
+				"send_room_builder_menu"
+			],
+			[
+				"send",
+				"send_enter_password_text"
+			],
+			[
+				"room_",
+				"room_builder_menu"
+			],
+			[
+				"edit_exit",
+				"edit_exit_menu"
+			],
+			[
+				"ed",
+				"edit_menu"
+			],
+			[
+				"high",
+				"highlighted"
+			],
+			[
+				"stop",
+				"stopWebkitResumeTimeInterval"
+			],
+			[
+				"last_",
+				"last_location_longitude"
+			],
+			[
+				"last",
+				"last_location_latitude"
+			],
+			[
+				"clear",
+				"clearHoveredMovies"
+			],
+			[
+				"con",
+				"constants"
+			],
+			[
+				"hide",
+				"hideCustomizeOption"
+			],
+			[
+				"unde",
+				"undelegateEvents"
+			],
+			[
+				"create",
+				"createSideBarColumnList"
+			],
+			[
+				"_c",
+				"_clog	niceLog"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 90.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ssgo",
+				"Set Syntax: GoSublime: Go"
+			],
+			[
+				"ssejs",
+				"Set Syntax: EJS (<% and %>)"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"ssjavas",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ssjavascript",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"ssjavasc",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"ssperl",
+				"Set Syntax: Perl"
+			],
+			[
+				"ssmark",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"ssesj",
+				"Set Syntax: EJS (<% and %>)"
+			],
+			[
+				"ssjava",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"ssjav",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"ssjavascirpt",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"ejs",
+				"Set Syntax: EJS (<% and %>)"
+			],
+			[
+				"javascrip",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"sstext",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssjavascriptne",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"rna",
+				"File: Rename"
+			],
+			[
+				"under",
+				"Set Syntax: HTML (Underscore)"
+			],
+			[
+				"sseja",
+				"Set Syntax: EJS (<% and %>)"
+			],
+			[
+				"underscore",
+				"Set Syntax: HTML (Underscore)"
+			],
+			[
+				"ssundersc",
+				"Set Syntax: HTML (Underscore)"
+			],
+			[
+				"ssjes",
+				"Set Syntax: EJS (<% and %>)"
+			],
+			[
+				"ssunderscore",
+				"Set Syntax: HTML (Underscore)"
+			],
+			[
+				"ssunders",
+				"Set Syntax: HTML (Underscore)"
+			],
+			[
+				"ssplain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"ssjsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML (Underscore)"
+			],
+			[
+				"ssunder",
+				"Set Syntax: HTML (Underscore)"
+			],
+			[
+				"ssruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ssmarkdo",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"unerscore",
+				"Set Syntax: HTML (Underscore)"
+			],
+			[
+				"tasks",
+				"Tasks: New document"
+			],
+			[
+				"sscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"html",
+				"Set Syntax: HTML (Underscore)"
+			],
+			[
+				"html under",
+				"Set Syntax: HTML (Underscore)"
+			],
+			[
+				"ssjavascr",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ssmarkd",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"ssog",
+				"Set Syntax: Go"
+			],
+			[
+				"ssslim",
+				"Set Syntax: Ruby Slim"
+			],
+			[
+				"javascir",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"indent",
+				"IndentX: Indent"
+			],
+			[
+				"indn",
+				"Indent XML"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"ssxml",
+				"Set Syntax: XML"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"slim",
+				"Set Syntax: Ruby Slim"
+			],
+			[
+				"sssass",
+				"Set Syntax: Sass"
+			],
+			[
+				"ssjavascrip",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"ssjavascir",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"markdonw",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"markdon",
+				"Set Syntax: Markdown"
+			],
+			[
+				"rname",
+				"File: Rename"
+			],
+			[
+				"ssc",
+				"Set Syntax: C"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"rea",
+				"File: Rename"
+			],
+			[
+				"rneame",
+				"File: Rename"
+			],
+			[
+				"sserb",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"new docume",
+				"Tasks: New document"
+			],
+			[
+				"rails",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"new",
+				"Tasks: New document"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"glue",
+				"Glue - Launch"
+			],
+			[
+				"ssapp",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"new docum",
+				"Tasks: New document"
+			],
+			[
+				"new doc",
+				"Tasks: New document"
+			],
+			[
+				"ssplis",
+				"Set Syntax: plist"
+			],
+			[
+				"ssshe",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"unicy",
+				"Set Syntax: Unity C#"
+			],
+			[
+				"unity",
+				"Set Syntax: Unity C#"
+			],
+			[
+				"ssunity",
+				"Set Syntax: Unity C#"
+			],
+			[
+				"ssssh",
+				"Set Syntax: SSH Config"
+			],
+			[
+				"ssjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"sscoffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"sscoffe",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"ssjavasci",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"new document",
+				"Tasks: New document"
+			],
+			[
+				"ssobject",
+				"Set Syntax: Objective-C"
+			],
+			[
+				"ssobje",
+				"Set Syntax: Objective-C"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"ssbash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"Gemfile",
+				"z:AAAPackageDev: New Commands File"
+			],
+			[
+				"sssql",
+				"Set Syntax: SQL"
+			],
+			[
+				"ssc#",
+				"Set Syntax: C#"
+			],
+			[
+				"new ",
+				"Tasks: New document"
+			],
+			[
+				"sstask",
+				"Set Syntax: Tasks"
+			],
+			[
+				"new docu",
+				"Tasks: New document"
+			],
+			[
+				"sssh",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"table",
+				"Table Editor: Enable for current view"
+			],
+			[
+				"tasks ",
+				"Tasks: New document"
+			],
+			[
+				"tasks new",
+				"Tasks: New document"
+			],
+			[
+				"ssraml",
+				"Set Syntax: RAML"
+			],
+			[
+				"ssrust",
+				"Set Syntax: Rust"
+			],
+			[
+				"rspec",
+				"Set Syntax: RSpec"
+			],
+			[
+				"ssscss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"ssrb",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ssele",
+				"Set Syntax: EleetScript"
+			],
+			[
+				"sssyn",
+				"Set Syntax: Sublime Text Syntax Definition"
+			],
+			[
+				"ssel",
+				"Set Syntax: EleetScript"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"ssxxml",
+				"Set Syntax: XML"
+			],
+			[
+				"ssEl",
+				"Set Syntax: EleetScript"
+			],
+			[
+				"sselee",
+				"Set Syntax: EleetScript"
+			],
+			[
+				"sscyp",
+				"Set Syntax: Cypher"
+			],
+			[
+				"sscy",
+				"Set Syntax: Cypher"
+			],
+			[
+				"ssclojure",
+				"Set Syntax: Clojure"
+			],
+			[
+				"clojre",
+				"Set Syntax: Clojure"
+			],
+			[
+				"sstype",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"sscsss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"ssdart",
+				"Set Syntax: Dart"
+			],
+			[
+				"ssmd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ss ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ss jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"ssng",
+				"Set Syntax: nginx"
+			],
+			[
+				"sscuby",
+				"Set Syntax: Cuby"
+			]
+		],
+		"width": 610.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"install indetx",
+			"install indextx",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"codeload.github.com",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"codeload.github.com",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"1 + 2",
+			"clear",
+			"`clear",
+			"PrettyjsonCommand",
+			"PrettyJsonCommand",
+			"pretty_json",
+			"show_scope_name",
+			"show_scope_name()",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"Codeivate",
+			"codeivate"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/trees"
+	],
+	"file_history":
+	[
+		"/Users/brandonbuck/Documents/Projects/blog/themes/tinyce/source/sass/vendor/_normalize.scss",
+		"/Users/brandonbuck/Documents/Projects/nim/case.nim",
+		"/Users/brandonbuck/Documents/Projects/nim/contro_flow.nim",
+		"/Users/brandonbuck/Documents/Projects/nim/type_casting.nim",
+		"/Users/brandonbuck/Documents/Projects/nim/result.nim",
+		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/trees/db/neo4j.go",
+		"/Users/brandonbuck/Documents/Projects/work/mit/working/css/_tekton.sass",
+		"/Users/brandonbuck/Documents/Projects/work/mit/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/templates/home/home.txt",
+		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/script-engine/engine.go",
+		"/Users/brandonbuck/Documents/Projects/work/mit/working/css/_home.sass",
+		"/Users/brandonbuck/Documents/Projects/work/mit/working/css/custom.sass",
+		"/Users/brandonbuck/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/brandonbuck/Documents/Projects/work/mit/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/js/src/app/modules/CategoryPages/CategoryPages.View.js",
+		"/Users/brandonbuck/Documents/Projects/work/mit/working/css/_item_details.sass",
+		"/Users/brandonbuck/Documents/Projects/work/mit/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/templates/item_details/item_details.txt",
+		"/Users/brandonbuck/Documents/Projects/work/mit/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/templates/header/macros/header_top_nav_macro.txt",
+		"/Users/brandonbuck/Documents/Projects/work/mit/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/templates/header/macros/mini_cart_macro.txt",
+		"/usr/local/bin/gitdel",
+		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/trees/nodes/node.go",
+		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/trees/Godeps/Godeps.json",
+		"/Users/brandonbuck/Documents/Projects/work/mit/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/templates/header/macros/header_profile_macro.txt",
+		"/Users/brandonbuck/Documents/Projects/work/mit/working/css/_footer.sass",
+		"/Users/brandonbuck/Documents/Projects/work/mit/working/css/_header.sass",
+		"/usr/local/Cellar/neo4j/2.2.1/libexec/conf/neo4j-server.properties",
+		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/script-engine/README.md",
+		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/trees/main.go",
+		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/trees/log/logger.go",
+		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/trees/config/config.go",
+		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/trees/config/README.md",
+		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/web-server/errors/exit_codes.go",
+		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/web-server/log/logger.go",
+		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/web-server/config/config.go",
+		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/web-server/db/neo4j.go",
+		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/web-server/main.go",
+		"/usr/local/Cellar/neo4j/2.2.1/libexec/conf/neo4j.properties",
+		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/web-server/db/neo4j_test.go",
+		"/usr/local/Cellar/neo4j/2.2.1/README.txt",
+		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/data-structures/que/que.go",
+		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/data-structures/list/linked_list.go",
+		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/script-engine/Godeps/_workspace/src/github.com/yuin/gopher-lua/table.go",
+		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/script-engine/value.go",
+		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/script-engine/lua_val_wrappers.go",
+		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/script-engine/engine_test.go",
+		"/Users/brandonbuck/Documents/Projects/challenges/aromatic.go",
+		"/Users/brandonbuck/Documents/Projects/work/mit/working/js/backup/Configuration.js",
+		"/Users/brandonbuck/Documents/Projects/challenges/magic_numbers.go",
+		"/Users/brandonbuck/Documents/Projects/chrome_extensions/tab_pinner/manifest.json",
+		"/Users/brandonbuck/Documents/Projects/challenges/magic_numb",
+		"/Users/brandonbuck/Documents/Projects/chrome_extensions/tab_pinner/tab_pinner.js",
+		"/Users/brandonbuck/Documents/Projects/work/mit/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/services/addl_item_details.ss",
+		"/Users/brandonbuck/Library/Application Support/Sublime Text 3/Packages/User/JavaScriptNext.sublime-settings",
+		"/Users/brandonbuck/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/brandonbuck/Documents/Projects/work/mit/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/index.ssp",
+		"/Users/brandonbuck/Documents/Projects/work/mit/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/js/src/app/modules/ItemDetails/ItemDetails.js",
+		"/Users/brandonbuck/Documents/Projects/work/mit/links/ShopFlow/js/src/app/modules/ItemDetails/ItemDetails.Router.js",
+		"/Users/brandonbuck/Documents/Projects/work/mit/links/ShopFlow/js/src/app/modules/ItemDetails/ItemDetails.View.js",
+		"/Users/brandonbuck/Documents/Projects/work/mit/links/ShopFlow/js/src/app/modules/CategoryPages/CategoryPages.View.js",
+		"/Users/brandonbuck/Documents/Projects/work/mit/links/ShopFlow/js/src/app/modules/CategoryPages/CategoryPages.Router.js",
+		"/Users/brandonbuck/Documents/Projects/work/mit/links/ShopFlow/index.ssp",
+		"/Users/brandonbuck/Documents/Projects/work/mit/links/ShopFlow/js/src/app/modules/CategoryPages/CategoryPages.js",
+		"/Users/brandonbuck/Documents/Projects/work/mit/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/current_config.json",
+		"/Users/brandonbuck/Documents/Projects/work/mit/links/ShopFlow/js/src/app/modules/ItemLoader/ItemLoader.js",
+		"/Users/brandonbuck/Documents/Projects/work/mit/links/ShopFlow/js/src/app/modules/ItemDetails/ItemDetails.js",
+		"/Users/brandonbuck/Documents/Projects/work/mit/links/ShopFlow/index.ssp.ejs",
+		"/Users/brandonbuck/Documents/Projects/work/mit/links/ShopFlow/templates/templates.config",
+		"/Users/brandonbuck/Documents/Projects/work/mit/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/templates/templates.config",
+		"/Users/brandonbuck/Documents/Projects/work/mit/links/ShopFlow/js/src/app/modules/CategoryPages/CategoryPages.CollectionView.js",
+		"/Users/brandonbuck/Documents/Projects/work/mit/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/templates/category_pages/category_list_page.txt",
+		"/Users/brandonbuck/Documents/Projects/work/mit/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/templates/category_pages/category_page.txt",
+		"/Users/brandonbuck/Documents/Projects/work/mit/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/js/src/app/modules/CategoryPages/CategoryPages.Collection.js",
+		"/Users/brandonbuck/Documents/Projects/work/mit/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/js/src/app/modules/CategoryPages/CategoryPages.Model.js",
+		"/Users/brandonbuck/Documents/Projects/work/mit/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/js/src/app/modules/CategoryPages/CategoryPages.CollectionView.js",
+		"/Users/brandonbuck/Documents/Projects/work/mit/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/js/src/app/modules/CategoryPages/CategoryPages.js",
+		"/Users/brandonbuck/Documents/Projects/work/mit/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/js/src/app/modules/CategoryPages/CategoryPages.Router.js",
+		"/Users/brandonbuck/Documents/Projects/work/mit/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/js/src/app/modules/ItemDetails/ItemDetails.Collection.js",
+		"/Users/brandonbuck/Documents/Projects/work/mit/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/js/src/app/modules/ItemDetails/ItemDetails.Model.js",
+		"/Users/brandonbuck/Documents/Projects/work/mit/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/js/src/app/modules/ItemDetails/ItemDetails.View.js",
+		"/Users/brandonbuck/Documents/Projects/work/mit/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/js/src/app/modules/ItemDetails/ItemDetails.Router.js",
+		"/Users/brandonbuck/Documents/Projects/work/mit/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/js/Input-files: src:ccombore:Main.js src:core:Utils.js sr",
+		"/Users/brandonbuck/Documents/Projects/work/mit/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/js/src/app/modules/Category",
+		"/Users/brandonbuck/Documents/Projects/work/mit/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/index.ssp.ejs",
+		"/usr/local/Cellar/fish/2.1.2/share/doc/fish/index.html",
+		"/Users/brandonbuck/Documents/Projects/work/mit/links/ShopFlow/templates/header/macros/mini_cart_macro.txt",
+		"/Users/brandonbuck/Documents/Projects/work/mit/links/ShopFlow/templates/item_details/item_details.txt",
+		"/Users/brandonbuck/Documents/Projects/work/mit/links/ShopFlow/skins/standard/custom.css",
+		"/Users/brandonbuck/Documents/Projects/ruby/five_minute_abs.rb",
+		"/usr/local/bin/pbgist",
+		"/Users/brandonbuck/Documents/Projects/work/mit/working/css/pbgist",
+		"/Users/brandonbuck/Documents/Projects/go/src/bitbucket.org/thenewoffice/go-muv/script/errors.go",
+		"/Users/brandonbuck/Documents/Projects/go/src/bitbucket.org/thenewoffice/go-muv/script/engine.go",
+		"/Users/brandonbuck/Documents/Projects/go/src/bitbucket.org/thenewoffice/go-muv/scripting/engine.go",
+		"/Users/brandonbuck/Documents/Projects/work/mit/links/ShopFlow/js/libs/candid.js",
+		"/Users/brandonbuck/Documents/Projects/c/atoi.c",
+		"/Users/brandonbuck/Documents/Projects/work/mit/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/js/libs/candid/widget.js",
+		"/Users/brandonbuck/Documents/Projects/work/mit/working/css/Rakefile",
+		"/Users/brandonbuck/Documents/Projects/go/src/github.com/bbuck/go-eleet/lexer_test.go",
+		"/Users/brandonbuck/Documents/Projects/go/src/github.com/bbuck/go-eleet/scanner.go",
+		"/Users/brandonbuck/Downloads/jquery-2.1.3.min.js",
+		"/Users/brandonbuck/Downloads/jquery-2.1.3.js",
+		"/Users/brandonbuck/Documents/Projects/work/kjus/kjus.sublime-project",
+		"/Users/brandonbuck/Documents/Projects/work/kjus/svn/branches/Pre-go live development/tno_cancellation_scheduled_script.js",
+		"/Users/brandonbuck/Documents/Projects/work/kjus/svn/branches/Pre-go live development/tno_cancellation_clientscript.js",
+		"/Users/brandonbuck/Documents/Projects/work/mit/working/css/Gemfile",
+		"/Users/brandonbuck/Documents/Projects/languages/psycode-js/test_parser.js",
+		"/Users/brandonbuck/Documents/Projects/languages/psycode-js/test/parser_test.js",
+		"/Users/brandonbuck/Documents/Projects/languages/psycode-js/samples/hello_world.psy",
+		"/Users/brandonbuck/Documents/Projects/work/kjus/Gruntfile.js",
+		"/Users/brandonbuck/Documents/Projects/work/kjus/svn/branches/Pre-go live development/matrixOrderEntry.js",
+		"/Users/brandonbuck/Documents/Projects/work/kjus/svn/branches/Pre-go live development/kjus_tno_core_extensions.js",
+		"/Users/brandonbuck/Documents/Projects/work/kjus/svn/branches/Pre-go live development/tno_core.min.js",
+		"/Users/brandonbuck/Documents/Projects/work/kjus/nssync.json",
+		"/Users/brandonbuck/Documents/Projects/work/kjus/svn/branches/Pre-go live development/matrixOrderEntry_10_27_2014.js",
+		"/Users/brandonbuck/Documents/Projects/work/kjus/backup/matrixOrderEntry.js",
+		"/Users/brandonbuck/Documents/Projects/work/kjus/svn/branches/Pre-go live development/matrixOrderEntry-9-30-2014.js",
+		"/Users/brandonbuck/Documents/Projects/work/kjus/svn/branches/Pre-go live development/logoFunctions.js",
+		"/Users/brandonbuck/Documents/Projects/work/kjus/svn/branches/Pre-go live development/TNO_fixed_assets.js",
+		"/Users/brandonbuck/Documents/Projects/go/src/github.com/bbuck/go-eleet/eleetscript.y",
+		"/Users/brandonbuck/Documents/Projects/go/src/github.com/bbuck/go-eleet/lexer.go",
+		"/Users/brandonbuck/Documents/Projects/work/mit/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/templates/header/macros/mini_cart_summary_macro.txt",
+		"/Users/brandonbuck/Documents/Projects/work/mit/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/skins/standard/custom.css",
+		"/Users/brandonbuck/Documents/Projects/work/mit/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/templates/header/macros/header_macro.txt",
+		"/Users/brandonbuck/Documents/Projects/work/mit/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/templates/footer/macros/footer_macro.txt",
+		"/Users/brandonbuck/Documents/Projects/work/mit/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/templates/layout.txt",
+		"/Users/brandonbuck/Documents/Projects/work/mit/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/templates/footer/macros/layout.txt",
+		"/Users/brandonbuck/Documents/Projects/work/mit/.gitignore",
+		"/Users/brandonbuck/Documents/Projects/work/nssync/nsSyncRestlet.js",
+		"/Users/brandonbuck/Documents/Projects/work/mit/Gruntfile.js",
+		"/Users/brandonbuck/Documents/Projects/work/mit/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - My Account 1.05.0/Custom My Account/ssp_libraries/commons.js"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 130.0,
+		"where_history":
+		[
+			"",
+			"test/dummy/vendor",
+			"vendor",
+			"",
+			"lib/views",
+			"",
+			"lib/input/responders",
+			"lib/input/respodners",
+			"",
+			"rubber/",
+			"",
+			"config/",
+			"config",
+			"",
+			"lib/assets/stylesheets",
+			"",
+			"views/",
+			"",
+			"coffee/public/js",
+			"",
+			"personal",
+			"coffee/public/js",
+			"views/, coffee/public/js",
+			"coffee/public/js/modules",
+			"",
+			"coffee/public/js",
+			"coffee/public/js/modules/user",
+			"coffee/public/js/user",
+			"coffee/public/js",
+			"public/styles",
+			"routes/",
+			"public/styles",
+			"coffee/public/js/modules",
+			"routes/",
+			"coffee/public/js/modules/columnpage",
+			"coffee/public/js/modules",
+			"coffee/puplic/js/modules",
+			"coffee/pulic/js/modules",
+			"routes/",
+			"coffee/public/js/modules/columnpage",
+			"coffee/public/js/modules/navMenu",
+			"coffee/public/js"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".breadcrumb",
+			"#",
+			"replace",
+			"class=\"label\"",
+			"data-target",
+			"color: white",
+			"ColorFunc",
+			"/web-server/",
+			"(\\w+?)Color",
+			"errorColor",
+			"\"TreeServer.toml\"",
+			"json",
+			"value",
+			"fmt",
+			"TableRemove",
+			"(func\\s\\(.*?\\)\\sTable(.+?)\\(.*(?:\\)|$))",
+			"LValue",
+			"(tb *LTable)",
+			"To(.+?)(?=\\()",
+			"(ls *LState)",
+			"Application",
+			"tab",
+			"storedetaileddescripti",
+			"storedetaileddescriptin",
+			".red",
+			"return the_num",
+			"\\( (.*?) \\)",
+			"( social_description )",
+			"\"addToCartBehaviour\"",
+			":3337",
+			"'",
+			"function (",
+			"'\n",
+			"application",
+			"\n    ",
+			"mountToApp",
+			"nsglobal",
+			"computeDetailsArea",
+			"this.template",
+			"application.getLayout().",
+			"Model",
+			"translator",
+			"FacetsTranslator",
+			"function (",
+			"}\n",
+			"function (",
+			"}\n",
+			"function (",
+			"});",
+			"candid",
+			"20px",
+			"macros",
+			"jQuery",
+			"$",
+			"out",
+			"string(b)",
+			"string(b),",
+			":14",
+			"Matrix Entry",
+			"field =",
+			"field",
+			"getMatrixSizes",
+			"item",
+			"defaultCustomRate",
+			"customrate",
+			"size.id + \"_\" + color.id",
+			"label",
+			"sizes[j]",
+			"[x]",
+			"colors[i]",
+			"results[i]",
+			"lineData",
+			"nlapiLookupField",
+			"defaultPriceLevel",
+			"priceLevelField",
+			"priceField",
+			"recType",
+			"tno",
+			":488",
+			"var data",
+			"var masterItem",
+			"monthlyDepreciation",
+			"<%\n  var model = view.model;\n%>\n<div data-cms-area=\"item_details_banner\" data-cms-area-filters=\"page_type\"></div>\n<div class=\"row-fluid view-header\" itemscope itemtype=\"http://schema.org/WebPage\">\n  <%= breadcrumb(model.get('_breadcrumb')) %>\n  <div id=\"banner-content-top\" class=\"content-banner banner-content-top\"></div>\n</div>\n<div class=\"row-fluid view-body\" itemscope itemtype=\"http://schema.org/Product\">\n  <meta itemprop=\"url\" content=\"<%= model.get('_url') %>\">\n  <div id=\"banner-details-top\" class=\"content-banner banner-details-top\"></div>\n  <div class=\"row-fluid item-detailed-page\">\n    <div class=\"span7\">\n      <div class=\"display-pic\"> <!--item name -->\n        <%= SC.macros[view.application.getConfig('macros.itemDetailsImage')](model.get('_images', true), view) %>\n      </div>\n    </div>\n    <div class=\"row-fluid\">\n      <div class=\"span5\">\n        <div class=\"item-detailed-info\">\n          <div class=\"item-detailed-header\">\n            <div id=\"banner-summary-bottom\" class=\"content-banner banner-summary-bottom\"></div>\n            <h1 itemprop=\"name\"><%= model.get('displayname') %></h1>\n            <span class=\"sku\">\n              <%= _(\"Item # $(0)\").translate(\"<span itemprop='sku'>\" + model.get(\"_sku\", true) + \"</span>\") %>\n            </span>\n            <p class=\"detailed-description\">\n              <%= model.get(\"storedetaileddescription\") %>\n            </p>\n            <div class=\"item-rating clearfix\" itemprop=\"aggregateRating\" itemscope itemtype=\"http://schema.org/AggregateRating\">\n              <%=\n                starRating({\n                  max: view.options.application.getConfig('productReviews.maxRate'),\n                  value: model.get(\"_rating\"),\n                  showRatingCount: true,\n                  ratingCount: model.get(\"_ratingsCount\"),\n                  className: \"star pull-left\",\n                  fillRounded: true\n                })\n              %>\n            </div>\n            <div data-cms-area=\"item_info\" data-cms-area-filters=\"path\"></div>\n          </div>\n          <div class=\"row-fluid item-detailed-body\">\n            <div class=\"span9\">\n              <% if (!model.isProperlyConfigured()) { %>\n                <div class=\"alert alert-error\">\n                  <%= _('<b>Warning</b>: This item is not properly configured, please contact your administrator.').translate() %>\n                </div>\n              <% } else {\n                /*\n                Render a single option placeholder:\n                ===================================\n                Any HTML element that matches [data-type=option], if it's rendered by ItemDetails.View\n                will be populated by the render of a single macro for a single option, especified by the attributes:\n                  data-cart-option-id: the id of the cart opion\n                  data-macro: the macro you want this option to be rendered with, if omited the default for the option will be used\n\n                <div\n                  class=\"options-container\"\n                  data-type=\"option\"\n                  data-cart-option-id=\"cart_option_id\"\n                  data-macro=\"macroName\">\n                </div>\n\n                Render all options placeholder:\n                ===============================\n                Any HTML element that matches [data-type=all-options], if it's rendered by ItemDetails.View\n                will be populated with the result of the execution of all the options with the macros,\n                either the default one or the one configured in the itemOptions array.\n                Use the data-exclude-options to select the options you dont want to be rendered here,\n                this is a coma separated list, for instace: cart_option_id1, cart_option_id2\n                */\n              %>\n                <div\n                  id=\"default-options-container\"\n                  class=\"options-container default-options-container\"\n                  data-type=\"all-options\"\n                  data-exclude-options=\"\">\n                </div>\n                <form action=\"#\" class=\"form-inline add-to-cart-form\">\n                  <% if (model.get('_itemType') !== 'GiftCert') {\n                    var minimum_quantity = model.get('_minimumQuantity', true);\n                  %>\n                    <div class=\"row-fluid\">\n                      <div class=\"item-price span6\">\n                        <%= showItemPrice(model.getPrice(), model.getStockInfo().isInStock) %>\n                        <small>In Stock</small>\n                      </div>\n                      <div class=\"span6\">\n                        <!-- <label for=\"quantity\">\n                          <%= minimum_quantity !== 1 ? _('Quantity (Minimum of $(0) required)').translate(minimum_quantity) : _('Quantity').translate() %>\n                        </label> -->\n                        <div class=\"input-append pull-right quantity-selector\">\n                          <label for=\"quantity\">QTY</label>\n                          <input type=\"number\" name=\"quantity\" id=\"quantity\" class=\"input-mini quantity\" value=\"<%- model.get('quantity') %>\" min=\"1\" />\n                        </div>\n                      </div>\n                    </div>\n                  <% } %>\n                  <div class=\"row-fluid\">\n                    <button data-type=\"add-to-cart\" class=\"btn btn-primary btn-large span12 add-to-cart-btn\"<% if (!model.isReadyForCart()) {%> disabled <%}%>>\n                      <img src=\"http://sandbox.tekton.com/SSP Applications/Netsuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/img/homepage/cart_icon.png\" data-loader=\"false\" />\n                      <%= _('Add to Cart').translate() %>\n                    </button>\n                  </div>\n                </form>\n              <% } %>\n            </div>\n            <div data-type=\"product-lists-control\" style=\"margin-bottom: 9px !important; display:inline-block\"></div>\n            <div data-type=\"alert-placeholder\"></div>\n          </div>\n          <div class=\"item-detailed-footer\">\n            <button class=\"btn btn-black\">Share</button>\n            <button class=\"btn btn-white\">\n              <i class=\"icon-plus\">\n              <button\n            </button>\n            <div id=\"banner-summary-bottom\" class=\"content-banner banner-summary-bottom\"></div>\n          </div>\n        </div>\n        <div id=\"banner-details-bottom\" class=\"content-banner banner-details-bottom\" data-cms-area=\"item_info_bottom\" data-cms-area-filters=\"page_type\"></div>\n      </div>\n    </div>\n  </div>\n\n<% var tabNames = [\"description\", \"features\", \"specs\", \"related\", \"contents\"] %>\n<% var test = {DESCRIPTION: \"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore est rerum ullam reprehenderit? Corporis earum dolor exercitationem quae harum est odio quam, ex minima distinctio error nobis. Quos nihil, autem!\", FEATURES: \"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum laboriosam culpa asperiores at repudiandae veritatis, inventore facere incidunt esse velit eligendi voluptates, mollitia deserunt voluptas vel architecto ullam repellendus impedit.\", SPECS: \"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, perspiciatis voluptas ea omnis amet corrupti excepturi necessitatibus sed molestiae facilis earum quia. Porro beatae nisi quisquam officia modi, nemo doloribus.\" , RELATED: \"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae reprehenderit iusto rerum quaerat esse nam, sapiente quae placeat delectus omnis quas deserunt quis dolor aspernatur cum, porro deleniti, eius, nulla!\", CONTENTS: \"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum at iste nulla quos, dolore impedit sint atque odit laudantium distinctio dolor facere reiciendis, rem, doloremque, aliquam error repellendus nostrum temporibus!\"} %>\n<%if (view.details && view.details.length) { %>\n  <div class=\"tabbable\">\n    <ul class=\"nav nav-tabs\" data-tabs=\"tabs\">\n      <% _.each(tabNames, function(val, index) { %>\n        <li class=\"<%= index === 0 ? 'active' : '' %>\">\n          <a href=\"#<%= val %>\" data-toggle=\"tab\">\n            <%= val %>\n          </a>\n        </li>\n      <% }) %>\n    </ul>\n    <div class=\"tab-content\">\n      <div class=\"tab-pane active\" id=\"description\">\n        <p>\n          <%= model.get(\"storedetaileddescription\") %>\n        </p>\n      </div>\n      <div class=\"tab-pane\" id=\"features\">\n        <p>\n          <h3>Features</h3>\n          <p>\n            <%= model.get(\"custitem_features_t\") %>\n          </p>\n        </p>\n      </div>\n    </div>\n  </div>\n  <script>\n    jQuery(function() {\n      jQuery(\".nav-tabs a\").click(function(e) {\n        e.preventDefault();\n        e.stopPropagation();\n        jQuery(this).tab(\"show\");\n      });\n    });\n  </script>\n<% } %>\n\n <% if (view.details && view.details.length) { %>\n    <div id=\"banner-content-top\" class=\"content-banner banner-content-top\"></div>\n    <div class=\"accordion\">\n      <% _.each(view.details, function(detail, index) { %>\n      <div id=\"accordion-group-<%= index %>\" class=\"accordion-group accordion-group-<%= index %>\">\n        <div class=\"accordion-heading\">\n          <h2 class=\"accordion-toggle <%= !detail.opened ? 'collapsed' : '' %>\" data-toggle=\"collapse\" data-target=\"#collapsed-<%= index %>\">\n            <%= detail.name %>\n            <i class=\"icon-minus-sign pull-right\"></i>\n            <i class=\"icon-plus-sign pull-right\"></i>\n          </h2>\n        </div>\n        <div id=\"collapsed-<%= index %>\" class=\"accordion-body collapse collapsed-<%= index %> <%= detail.opened ? 'in' : '' %>\">\n          <div class=\"accordion-inner\" itemprop=\"<%= detail.itemprop %>\">\n            <%= detail.content %>\n          </div>\n        </div>\n      </div>\n      <% }) %>\n    </div>\n    <div id=\"banner-content-bottom\" class=\"content-banner banner-content-bottom\"></div>\n  <% } %>\n\n  <div data-type=\"review-list-placeholder\" data-itemid=\"<%= model.get('_id') %>\" data-url=\"<%= model.get('urlcomponent') %>\" data-order=\"useful_count:desc\" data-title=\"<%= _('Ratings &amp; Reviews').translate() %>\" data-subtitle=\"<%= _('Most Helpful Reviews').translate() %>\"></div>\n\n  <div class=\"row-fluid\" data-type=\"related-items-placeholder\"></div>\n  <div class=\"row-fluid\" data-type=\"correlated-items-placeholder\"></div>\n  <div id=\"banner-details-bottom\" class=\"content-banner banner-details-bottom\" data-cms-area=\"item_details_banner_bottom\" data-cms-area-filters=\"page_type\"></div>\n</div>\n",
+			"\\)",
+			")",
+			"img",
+			"showItemPrice",
+			"span5",
+			"span5 pull-right",
+			"macros",
+			"pic",
+			"black",
+			"contnet",
+			"Login",
+			"macros.footer",
+			"macro.footer",
+			"macro.footers",
+			"getList",
+			"file",
+			"searchApiMasterOptions",
+			"fetch",
+			"'",
+			"function (",
+			"'",
+			"function (",
+			"ref",
+			"Ui",
+			"(i)",
+			"i",
+			"i := int64(t)",
+			"fmt.Errorf(\"ESValue is not of type %s!\", e.t)",
+			"return fmt.Errorf(\"The ESValue is a %s, the value given was %T\", e.t, val)",
+			"Type",
+			"classes",
+			"```$",
+			"**[⬆ back to top](#table-of-contents)**",
+			"+",
+			"- **",
+			"Fact",
+			"Fib",
+			"gallery",
+			"\\s\\((\\d+)\\shours\\)",
+			" - ",
+			"- ",
+			" - ",
+			"#### ",
+			"1 week",
+			"3 days"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/trees/",
+			"colorize\\u$1",
+			"colorize\\U$1",
+			"// Table$2 maps to lua.LTable.$2\n$1",
+			"$1Arg",
+			"($1)",
+			",$1",
+			"",
+			"\\\\",
+			"$1$2 = $1%$2",
+			"$2 = $1%$2",
+			"$1->",
+			"$1.",
+			"$1->",
+			"\"",
+			"!==",
+			"===",
+			"send",
+			"\\ \\",
+			"write",
+			"$1$2__ESC__[$3",
+			"$1$2__ESC__$3",
+			"",
+			"ANSI.$1",
+			"ANSI::RESET",
+			" ",
+			"[Application Name]",
+			"word",
+			"unsaved_changes",
+			"change_mode($1)",
+			"",
+			"\"quarter\":1",
+			"\"year\":2014",
+			"state[:$1]",
+			".$1",
+			"state.$1",
+			"<%= image_path \"startup/$1.png\" %>",
+			"<%= image_path \"lsi_startup-$1.png\" %>",
+			"lsi_startup-$1.png",
+			"@movieContainerEl",
+			"@dummyVideoEl",
+			"image-url(\"$1\")",
+			"@methods",
+			"eval(context)",
+			"",
+			"image-url($1)",
+			"assets",
+			".array_value",
+			".hash_value",
+			"###",
+			"##",
+			"*$1*",
+			"",
+			"00:00:$1,$2",
+			"url(/assets/",
+			"Series",
+			"<div class=\"movie-field-label\">$1</div>",
+			"image-url(\"$1\")",
+			"$menu-close-url",
+			"$arrows3-url",
+			"$footerbg-url",
+			"$logo-header-url",
+			"$sprites-url",
+			"$nav-new-url",
+			"$bg-transparent-url;",
+			"$bg-transparent-url",
+			"$logo-header-url",
+			"$sprites-url",
+			"image-url(\"$1\")",
+			"/img",
+			"app.pages.join.form.confirm_email",
+			"activerecord.attributes.user.confirm_email",
+			"activerecord.attributes.user.city",
+			"activerecord.attributes.user.street",
+			"activerecord.attributes.user.zip",
+			"activerecord.attributes.user.country_code",
+			"activerecord.attributes.user.region_code",
+			"activerecord.attributes.user.password",
+			"activerecord.attributes.user.last_name",
+			"activerecord.attributes.user.first_name",
+			"activerecord.attributes.user.email",
+			"image-url('$1')",
+			"CB::",
+			"Cuby",
+			"$1",
+			"\":"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MarGo-output":
+	{
+		"height": 86.0
+	},
+	"output.exec":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "trees.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"neo4j",
+				"db/neo4j.go"
+			],
+			[
+				"_tekton",
+				"working/css/_tekton.sass"
+			],
+			[
+				"home.txt",
+				"Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/templates/home/home.txt"
+			],
+			[
+				"java",
+				"Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/js/src/app/modules/CategoryPages/CategoryPages.View.js"
+			],
+			[
+				"_home.sass",
+				"working/css/_home.sass"
+			],
+			[
+				"item",
+				"working/css/_item_details.sass"
+			],
+			[
+				"item_de",
+				"Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/templates/item_details/item_details.txt"
+			],
+			[
+				"custom",
+				"working/css/custom.sass"
+			],
+			[
+				"home",
+				"Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/templates/home/home.txt"
+			],
+			[
+				"mini",
+				"Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/templates/header/macros/mini_cart_macro.txt"
+			],
+			[
+				"profile",
+				"Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/templates/header/macros/header_profile_macro.txt"
+			],
+			[
+				"header_top_",
+				"Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/templates/header/macros/header_top_nav_macro.txt"
+			],
+			[
+				"gode",
+				"Godeps/Godeps.json"
+			],
+			[
+				"go",
+				"Godeps/Godeps.json"
+			],
+			[
+				"node",
+				"nodes/node.go"
+			],
+			[
+				"_header",
+				"working/css/_header.sass"
+			],
+			[
+				"_footer",
+				"working/css/_footer.sass"
+			],
+			[
+				"re",
+				"README.md"
+			],
+			[
+				"logger.go",
+				"log/logger.go"
+			],
+			[
+				"main.go",
+				"main.go"
+			],
+			[
+				"config",
+				"config/config.go"
+			],
+			[
+				"error",
+				"web-server/errors/exit_codes.go"
+			],
+			[
+				"ne",
+				"web-server/db/neo4j.go"
+			],
+			[
+				"neo",
+				"conf/neo4j.properties"
+			],
+			[
+				"table.go",
+				"Godeps/_workspace/src/github.com/yuin/gopher-lua/table.go"
+			],
+			[
+				"value.go",
+				"value.go"
+			],
+			[
+				"engine_test.go",
+				"engine_test.go"
+			],
+			[
+				"engine",
+				"engine.go"
+			],
+			[
+				"",
+				"lua_val_wrappers.go"
+			],
+			[
+				"engine.go",
+				"engine.go"
+			],
+			[
+				"header_top",
+				"Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/templates/header/macros/header_top_nav_macro.txt"
+			],
+			[
+				"configur",
+				"working/js/backup/Configuration.js"
+			],
+			[
+				"addl",
+				"Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/services/addl_item_details.ss"
+			],
+			[
+				"index.ssp",
+				"Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/index.ssp"
+			],
+			[
+				"footer.sass",
+				"working/css/_footer.sass"
+			],
+			[
+				"categorypages.view",
+				"Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/js/src/app/modules/CategoryPages/CategoryPages.View.js"
+			],
+			[
+				"itemdetails.router",
+				"Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/js/src/app/modules/ItemDetails/ItemDetails.Router.js"
+			],
+			[
+				"categorypages.route",
+				"Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/js/src/app/modules/CategoryPages/CategoryPages.Router.js"
+			],
+			[
+				"categorypages.",
+				"Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/js/src/app/modules/CategoryPages/CategoryPages.js"
+			],
+			[
+				"itemsdetail.js",
+				"Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/js/src/app/modules/ItemDetails/ItemDetails.js"
+			],
+			[
+				"itemloader.js",
+				"links/ShopFlow/js/src/app/modules/ItemLoader/ItemLoader.js"
+			],
+			[
+				"categorypages",
+				"links/ShopFlow/js/src/app/modules/CategoryPages/CategoryPages.js"
+			],
+			[
+				"router",
+				"links/ShopFlow/js/src/app/modules/CategoryPages/CategoryPages.Router.js"
+			],
+			[
+				"itemdetails.view.js",
+				"links/ShopFlow/js/src/app/modules/ItemDetails/ItemDetails.View.js"
+			],
+			[
+				"templates",
+				"links/ShopFlow/templates/templates.config"
+			],
+			[
+				"collectionview.",
+				"links/ShopFlow/js/src/app/modules/CategoryPages/CategoryPages.CollectionView.js"
+			],
+			[
+				"view.",
+				"links/ShopFlow/js/src/app/modules/CategoryPages/CategoryPages.View.js"
+			],
+			[
+				"view.js",
+				"links/ShopFlow/js/src/app/modules/CategoryPages/CategoryPages.View.js"
+			],
+			[
+				"custom.css",
+				"links/ShopFlow/skins/standard/custom.css"
+			],
+			[
+				"item_details.txt",
+				"links/ShopFlow/templates/item_details/item_details.txt"
+			],
+			[
+				"tekton",
+				"working/css/_tekton.sass"
+			],
+			[
+				"header",
+				"links/ShopFlow/templates/header/macros/header_profile_macro.txt"
+			],
+			[
+				"tekn",
+				"working/css/_tekton.sass"
+			],
+			[
+				"mini_car",
+				"links/ShopFlow/templates/header/macros/mini_cart_macro.txt"
+			],
+			[
+				"header_",
+				"links/ShopFlow/templates/header/macros/header_profile_macro.txt"
+			],
+			[
+				"cand",
+				"links/ShopFlow/js/libs/candid.js"
+			],
+			[
+				"rakefile",
+				"working/css/Rakefile"
+			],
+			[
+				"lexer.go",
+				"lexer.go"
+			],
+			[
+				"scanner.go",
+				"scanner.go"
+			],
+			[
+				"tno_cance",
+				"svn/branches/Pre-go live development/tno_cancellation_scheduled_script.js"
+			],
+			[
+				"cancellation",
+				"svn/branches/Pre-go live development/tno_cancellation_clientscript.js"
+			],
+			[
+				"matrixo",
+				"backup/matrixOrderEntry.js"
+			],
+			[
+				"matrix",
+				"svn/branches/Pre-go live development/matrixOrderEntry.js"
+			],
+			[
+				"gemfile",
+				"mit/working/css/Gemfile"
+			],
+			[
+				"rake",
+				"mit/working/css/Rakefile"
+			],
+			[
+				"_item_detai",
+				"mit/working/css/_item_details.sass"
+			],
+			[
+				"matrixorderentry",
+				"svn/branches/Pre-go live development/matrixOrderEntry.js"
+			],
+			[
+				"grun",
+				"Gruntfile.js"
+			],
+			[
+				"ns",
+				"nssync.json"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"tno",
+				"svn/branches/Pre-go live development/tno_core.min.js"
+			],
+			[
+				"matrixorderenty",
+				"svn/branches/Pre-go live development/matrixOrderEntry_10_27_2014.js"
+			],
+			[
+				"matrixorder",
+				"svn/branches/Pre-go live development/matrixOrderEntry.js"
+			],
+			[
+				"matriorder",
+				"backup/matrixOrderEntry.js"
+			],
+			[
+				"logofunctions.js",
+				"svn/branches/Pre-go live development/logoFunctions.js"
+			],
+			[
+				"tno_fixed",
+				"svn/branches/Pre-go live development/TNO_fixed_assets.js"
+			],
+			[
+				"tno_core",
+				"svn/branches/Pre-go live development/tno_core.min.js"
+			],
+			[
+				"elee",
+				"eleetscript.y"
+			],
+			[
+				"lex",
+				"lexer.go"
+			],
+			[
+				"lexer",
+				"lexer.go"
+			],
+			[
+				"scnn",
+				"scanner.go"
+			],
+			[
+				"cart",
+				"Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/templates/header/macros/mini_cart_summary_macro.txt"
+			],
+			[
+				"header.txt",
+				"Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/templates/header/macros/header_macro.txt"
+			],
+			[
+				"layout.txt",
+				"Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/templates/layout.txt"
+			],
+			[
+				"item_detail",
+				"Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/templates/item_details/item_details.txt"
+			],
+			[
+				"_item",
+				"working/css/_item_details.sass"
+			],
+			[
+				"custom.sass",
+				"working/css/custom.sass"
+			],
+			[
+				"_header.sass",
+				"working/css/_header.sass"
+			],
+			[
+				"headertop",
+				"Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/templates/header/macros/header_top_nav_macro.txt"
+			],
+			[
+				"heder",
+				"Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/templates/header/macros/header_macro.txt"
+			],
+			[
+				"layout",
+				"Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/templates/layout.txt"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"commons.js",
+				"Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - My Account 1.05.0/Custom My Account/ssp_libraries/commons.js"
+			],
+			[
+				"header_macro",
+				"Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/templates/header/macros/header_macro.txt"
+			],
+			[
+				"footer",
+				"Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/templates/footer/macros/footer_macro.txt"
+			],
+			[
+				"context",
+				"lang/context.go"
+			],
+			[
+				"esval",
+				"lang/esval.go"
+			],
+			[
+				"nodes.go",
+				"lang/nodes.go"
+			],
+			[
+				"errors",
+				"lang/errors.go"
+			],
+			[
+				"nodes",
+				"nodes.go"
+			],
+			[
+				"errors.go",
+				"lang/errors.go"
+			],
+			[
+				"eleet",
+				"eleetscript.y"
+			],
+			[
+				"lexer.nex",
+				"lexer.nex"
+			],
+			[
+				"lexer.n",
+				"lexer.nn.go"
+			],
+			[
+				"template",
+				"src/branches/dev/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/templates/header/macros/header_macro.txt"
+			],
+			[
+				"03",
+				"03092015.md"
+			],
+			[
+				"flag",
+				"flag.go"
+			],
+			[
+				"flag.go",
+				"flag.go"
+			],
+			[
+				"command.go",
+				"command.go"
+			],
+			[
+				"program.go",
+				"program.go"
+			],
+			[
+				"tno_lib",
+				"src/tno_lib.js"
+			],
+			[
+				"tno_wrapper.js",
+				"src/tno_wrapper.js"
+			],
+			[
+				"wrapper",
+				"docs/tno_wrapper.html"
+			],
+			[
+				"lib",
+				"src/tno_lib.js"
+			],
+			[
+				"core",
+				"build/tno_core.min.js"
+			],
+			[
+				"record",
+				"src/tno_record_defs.js"
+			],
+			[
+				"tno_",
+				"src/tno_record_defs.js"
+			],
+			[
+				"formatter",
+				"formatter/formatter.go"
+			],
+			[
+				"format",
+				"formatter/formatter.go"
+			],
+			[
+				"option.go",
+				"option.go"
+			],
+			[
+				"comm",
+				"command.go"
+			],
+			[
+				"program",
+				"program.go"
+			],
+			[
+				"progr",
+				"program.go"
+			],
+			[
+				"po",
+				"program.go"
+			],
+			[
+				"prog",
+				"program/program.go"
+			],
+			[
+				"header_mac",
+				"mit/src/branches/dev/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/templates/header/macros/header_macro.txt"
+			],
+			[
+				"header_ma",
+				"mit/src/branches/dev/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/templates/header/macros/header_macro.txt"
+			],
+			[
+				"head",
+				"mit/src/branches/dev/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/templates/header/macros/header_macro.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 49.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 1209.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

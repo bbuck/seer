@@ -1,7 +1,6 @@
 package config
 
 import (
-	"bytes"
 	"io/ioutil"
 	"os"
 
@@ -25,37 +24,38 @@ type Config struct {
 const configFileName = "Trees.toml"
 
 var (
-	loadedConfig *Config
-	logger       *log.Logger
+	loaded       = false
+	loadedConfig Config
+	logger       log.Logger
 )
 
 func init() {
-	logger = log.Make("config", ":stdout:", log.LogDebug)
+	logger = log.Make("config", log.GetFileTarget(":stdout:"))
 }
 
 func LoadOrCreate() {
 	err := load()
 
 	if os.IsNotExist(err) {
-		config := withDefaults()
 		f, err := os.Create(configFileName)
 		if err != nil {
 			logger.Fatal(err, errors.ErrCreateConfigFailed)
 		}
 		defer f.Close()
 
-		buf := new(bytes.Buffer)
-		if err = toml.NewEncoder(buf).Encode(config); err != nil {
-			logger.Fatal(err, errors.ErrCreateConfigFailed)
-		}
-		_, err = f.Write(buf.Bytes())
+		_, err = f.Write([]byte(defaultConfigToml))
 		if err != nil {
 			logger.Fatal(err, errors.ErrCreateConfigFailed)
 		}
+
+		logger.Log(log.LogInfo, "Created default configuartion.")
+	} else {
+		logger.Log(log.LogInfo, "Configuration already exists, doing nothing.")
 	}
 }
 
 func load() error {
+	loaded = true
 	loadedConfig = withDefaults()
 	f, err := os.Open(configFileName)
 	if err != nil {
@@ -77,16 +77,16 @@ func load() error {
 	return nil
 }
 
-func Get() *Config {
-	if loadedConfig == nil {
+func Get() Config {
+	if !loaded {
 		load()
 	}
 
 	return loadedConfig
 }
 
-func withDefaults() *Config {
-	return &Config{
+func withDefaults() Config {
+	return Config{
 		DB: Database{
 			Host: "localhost:7474",
 			//Auth: false,

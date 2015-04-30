@@ -10,7 +10,7 @@ import (
 )
 
 func main() {
-	appLogger := log.Make("system", ":stdout:", log.LogDebug)
+	appLogger := log.Make("system", log.GetFileTarget(":stdout:"))
 
 	init, err := flag.Bool("init, i", false, "Initialize TreeServer.toml with default values.")
 	if err != nil {
@@ -21,7 +21,6 @@ func main() {
 
 	if *init {
 		config.LoadOrCreate()
-		appLogger.Log(log.LogInfo, "Created default configuartion.")
 
 		return
 	}

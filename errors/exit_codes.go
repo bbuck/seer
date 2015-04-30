@@ -1,6 +1,7 @@
 package errors
 
 const (
-	ErrCreateConfigFailed int = iota
+	ErrCreateConfigFailed int = iota + 1
 	ErrFailedToStart
+	ErrFailedToCreateLogTarget
 )
