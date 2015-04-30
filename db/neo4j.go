@@ -3,7 +3,7 @@ package db
 import (
 	"database/sql"
 
-	"github.com/tree-server/trees/log"
+	"github.com/seer-server/seer/log"
 	_ "gopkg.in/cq.v1"
 )
 

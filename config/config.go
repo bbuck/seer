@@ -5,8 +5,8 @@ import (
 	"os"
 
 	"github.com/BurntSushi/toml"
-	"github.com/tree-server/trees/errors"
-	"github.com/tree-server/trees/log"
+	"github.com/seer-server/seer/errors"
+	"github.com/seer-server/seer/log"
 )
 
 type Database struct {
@@ -21,7 +21,7 @@ type Config struct {
 	RootNode string   `toml:"root_node_id"`
 }
 
-const configFileName = "Trees.toml"
+const configFileName = "Seer.toml"
 
 var (
 	loaded       = false

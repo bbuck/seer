@@ -4,9 +4,9 @@ import (
 	"fmt"
 
 	"github.com/bbuck/go-flag"
-	"github.com/tree-server/trees/config"
-	"github.com/tree-server/trees/errors"
-	"github.com/tree-server/trees/log"
+	"github.com/seer-server/seer/config"
+	"github.com/seer-server/seer/errors"
+	"github.com/seer-server/seer/log"
 )
 
 func main() {

@@ -7,7 +7,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/tree-server/trees/errors"
+	"github.com/seer-server/seer/errors"
 )
 
 type Logger interface {

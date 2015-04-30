@@ -2,7 +2,7 @@ package nodes
 
 import (
 	"github.com/satori/go.uuid"
-	"github.com/tree-server/trees/neo4j"
+	"github.com/seer-server/seer/neo4j"
 )
 
 // Interface defining what it means to be a "Node"
