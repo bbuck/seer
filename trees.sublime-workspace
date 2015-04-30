@@ -826,16 +826,25 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/trees"
+		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/trees",
+		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/trees/config"
 	],
 	"file_history":
 	[
+		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/trees/main.go",
+		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/trees/config/default_config.go",
+		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/trees/db/neo4j.go",
+		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/trees/log/logger.go",
+		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/trees/errors/exit_codes.go",
+		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/trees/config/config.go",
+		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/trees/config/config_test.go",
+		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/trees/log/log_level.go",
+		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/trees/trees.sublime-project",
 		"/Users/brandonbuck/Documents/Projects/blog/themes/tinyce/source/sass/vendor/_normalize.scss",
 		"/Users/brandonbuck/Documents/Projects/nim/case.nim",
 		"/Users/brandonbuck/Documents/Projects/nim/contro_flow.nim",
 		"/Users/brandonbuck/Documents/Projects/nim/type_casting.nim",
 		"/Users/brandonbuck/Documents/Projects/nim/result.nim",
-		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/trees/db/neo4j.go",
 		"/Users/brandonbuck/Documents/Projects/work/mit/working/css/_tekton.sass",
 		"/Users/brandonbuck/Documents/Projects/work/mit/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/templates/home/home.txt",
 		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/script-engine/engine.go",
@@ -855,9 +864,6 @@
 		"/Users/brandonbuck/Documents/Projects/work/mit/working/css/_header.sass",
 		"/usr/local/Cellar/neo4j/2.2.1/libexec/conf/neo4j-server.properties",
 		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/script-engine/README.md",
-		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/trees/main.go",
-		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/trees/log/logger.go",
-		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/trees/config/config.go",
 		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/trees/config/README.md",
 		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/web-server/errors/exit_codes.go",
 		"/Users/brandonbuck/Documents/Projects/go/src/github.com/tree-server/web-server/log/logger.go",
@@ -952,16 +958,11 @@
 		"/Users/brandonbuck/Documents/Projects/work/mit/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/skins/standard/custom.css",
 		"/Users/brandonbuck/Documents/Projects/work/mit/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/templates/header/macros/header_macro.txt",
 		"/Users/brandonbuck/Documents/Projects/work/mit/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/templates/footer/macros/footer_macro.txt",
-		"/Users/brandonbuck/Documents/Projects/work/mit/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/templates/layout.txt",
-		"/Users/brandonbuck/Documents/Projects/work/mit/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/templates/footer/macros/layout.txt",
-		"/Users/brandonbuck/Documents/Projects/work/mit/.gitignore",
-		"/Users/brandonbuck/Documents/Projects/work/nssync/nsSyncRestlet.js",
-		"/Users/brandonbuck/Documents/Projects/work/mit/Gruntfile.js",
-		"/Users/brandonbuck/Documents/Projects/work/mit/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - My Account 1.05.0/Custom My Account/ssp_libraries/commons.js"
+		"/Users/brandonbuck/Documents/Projects/work/mit/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/templates/layout.txt"
 	],
 	"find":
 	{
-		"height": 24.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
@@ -1017,6 +1018,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"BaseLogger",
+			"Logger",
+			"log.Make",
+			"os.",
+			"strings",
+			"\"strings\"",
 			".breadcrumb",
 			"#",
 			"replace",
@@ -1138,13 +1145,7 @@
 			"Fact",
 			"Fib",
 			"gallery",
-			"\\s\\((\\d+)\\shours\\)",
-			" - ",
-			"- ",
-			" - ",
-			"#### ",
-			"1 week",
-			"3 days"
+			"\\s\\((\\d+)\\shours\\)"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1310,6 +1311,34 @@
 		"selected_items":
 		[
 			[
+				"default",
+				"config/default_config.go"
+			],
+			[
+				"exit",
+				"errors/exit_codes.go"
+			],
+			[
+				"neo",
+				"db/neo4j.go"
+			],
+			[
+				"main.go",
+				"main.go"
+			],
+			[
+				"config.go",
+				"config/config.go"
+			],
+			[
+				"logger.go",
+				"log/logger.go"
+			],
+			[
+				"",
+				"main.go"
+			],
+			[
 				"neo4j",
 				"db/neo4j.go"
 			],
@@ -1382,14 +1411,6 @@
 				"README.md"
 			],
 			[
-				"logger.go",
-				"log/logger.go"
-			],
-			[
-				"main.go",
-				"main.go"
-			],
-			[
 				"config",
 				"config/config.go"
 			],
@@ -1400,10 +1421,6 @@
 			[
 				"ne",
 				"web-server/db/neo4j.go"
-			],
-			[
-				"neo",
-				"conf/neo4j.properties"
 			],
 			[
 				"table.go",
@@ -1420,10 +1437,6 @@
 			[
 				"engine",
 				"engine.go"
-			],
-			[
-				"",
-				"lua_val_wrappers.go"
 			],
 			[
 				"engine.go",
@@ -1808,18 +1821,6 @@
 			[
 				"prog",
 				"program/program.go"
-			],
-			[
-				"header_mac",
-				"mit/src/branches/dev/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/templates/header/macros/header_macro.txt"
-			],
-			[
-				"header_ma",
-				"mit/src/branches/dev/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/templates/header/macros/header_macro.txt"
-			],
-			[
-				"head",
-				"mit/src/branches/dev/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - ShopFlow 1.06.0/Custom ShopFlow/templates/header/macros/header_macro.txt"
 			]
 		],
 		"width": 0.0
